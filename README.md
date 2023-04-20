@@ -1,2 +1,2 @@
-# videojuego_Marvel
-Usando los conceptos de POO diseñe un videojuego para simular un enfrentamiento entre heroes y villanos , esto sin una interfaz gráfica.
+# Programa en para obtener regalos en base al monto de cada factura valida
+Usando los conceptos de POO diseñe un programa en java para obtener los regalos que puede tener un cliente en base a las compras realizadas.
